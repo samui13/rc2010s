@@ -1,0 +1,39 @@
+- mktime: 000000
+  enum: 10
+  type: normal1
+
+- mktime: 00005
+  enum: 10
+  type: normal2
+
+- mktime: 000007
+  enum: 10
+  type: normal1
+
+- mktime: 000025
+  enum: 10
+  type: normal2
+
+- mktime: 000030
+  enum: 10
+  type: normal2
+
+- mktime: 000035
+  enum: 10
+  type: normal2
+
+- mktime: 000040
+  enum: 10
+  type: normal2
+
+- mktime: 000045
+  enum: 10
+  type: normal2
+
+- mktime: 000050
+  enum: 10
+  type: normal2
+
+- mktime: 000055
+  enum: 10
+  type: normal2
